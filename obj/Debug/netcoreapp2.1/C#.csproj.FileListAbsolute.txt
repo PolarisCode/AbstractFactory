@@ -1,0 +1,22 @@
+/Users/ialiyev/Google Drive/Projects/C#/bin/Debug/netcoreapp2.1/C#.deps.json
+/Users/ialiyev/Google Drive/Projects/C#/bin/Debug/netcoreapp2.1/C#.runtimeconfig.json
+/Users/ialiyev/Google Drive/Projects/C#/bin/Debug/netcoreapp2.1/C#.runtimeconfig.dev.json
+/Users/ialiyev/Google Drive/Projects/C#/bin/Debug/netcoreapp2.1/C#.dll
+/Users/ialiyev/Google Drive/Projects/C#/bin/Debug/netcoreapp2.1/C#.pdb
+/Users/ialiyev/Google Drive/Projects/C#/obj/Debug/netcoreapp2.1/C#.csprojAssemblyReference.cache
+/Users/ialiyev/Google Drive/Projects/C#/obj/Debug/netcoreapp2.1/C#.csproj.CoreCompileInputs.cache
+/Users/ialiyev/Google Drive/Projects/C#/obj/Debug/netcoreapp2.1/C#.AssemblyInfoInputs.cache
+/Users/ialiyev/Google Drive/Projects/C#/obj/Debug/netcoreapp2.1/C#.AssemblyInfo.cs
+/Users/ialiyev/Google Drive/Projects/C#/obj/Debug/netcoreapp2.1/C#.dll
+/Users/ialiyev/Google Drive/Projects/C#/obj/Debug/netcoreapp2.1/C#.pdb
+/Users/ialiyev/Google Drive/Projects/C#/Abstract Factory/bin/Debug/netcoreapp2.1/C#.deps.json
+/Users/ialiyev/Google Drive/Projects/C#/Abstract Factory/bin/Debug/netcoreapp2.1/C#.runtimeconfig.json
+/Users/ialiyev/Google Drive/Projects/C#/Abstract Factory/bin/Debug/netcoreapp2.1/C#.runtimeconfig.dev.json
+/Users/ialiyev/Google Drive/Projects/C#/Abstract Factory/bin/Debug/netcoreapp2.1/C#.dll
+/Users/ialiyev/Google Drive/Projects/C#/Abstract Factory/bin/Debug/netcoreapp2.1/C#.pdb
+/Users/ialiyev/Google Drive/Projects/C#/Abstract Factory/obj/Debug/netcoreapp2.1/C#.csprojAssemblyReference.cache
+/Users/ialiyev/Google Drive/Projects/C#/Abstract Factory/obj/Debug/netcoreapp2.1/C#.csproj.CoreCompileInputs.cache
+/Users/ialiyev/Google Drive/Projects/C#/Abstract Factory/obj/Debug/netcoreapp2.1/C#.AssemblyInfoInputs.cache
+/Users/ialiyev/Google Drive/Projects/C#/Abstract Factory/obj/Debug/netcoreapp2.1/C#.AssemblyInfo.cs
+/Users/ialiyev/Google Drive/Projects/C#/Abstract Factory/obj/Debug/netcoreapp2.1/C#.dll
+/Users/ialiyev/Google Drive/Projects/C#/Abstract Factory/obj/Debug/netcoreapp2.1/C#.pdb
